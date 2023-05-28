@@ -14,7 +14,8 @@ Notes:
     - Ensure a stable internet connection for successful web scraping.
     - The website URL and the structure of the data may need to be adjusted based on specific requirements.
 """
-
+# In this Python file, I have used the same code from the question_3 python file, like as same we create a new list or 
+# 'dict' just by creating a new object for it, as same I used my own class data scraper for scraping data from the web.
 # importing DataScraper class from Package Question_3, Module Question_3
 from Python_Question.Question_3.Question_3 import DataScraper
 
